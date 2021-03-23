@@ -10,6 +10,9 @@
 
 
 > ## Skills
+<img align="left" height="300" width="300" alt="GIF" src="./media/github.gif">
+<p align="right">
+
 ![C lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &emsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &emsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &emsp;
@@ -33,19 +36,30 @@
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &emsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) &emsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) &emsp;
+
+</p>
 <!-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) &emsp; -->
 <!-- ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
+<br/>
+
  __ __
+ 
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=solarized-light" width="400" height="200" alt="swift1719" />&emsp;
 <img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=solarized-light&locale=en" width="400" height="300" alt="swift1719" />
-</p>
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=swift1719&theme=synthwave" widht="300" alt="swift1719" />
-</p>
- 
-<br/>
+</p>>
 
+<p align="center">
+  <a>
+    <img height="150" width="175" src="./media/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swift1719&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="./media/right.png">
+  </a>
+</p>
+
+
+ 
+### Show some ❤️ by starring ⭐ some of the repositories!
  __<h1></h1>__
 &emsp;&emsp;&emsp; <span><strong>Find me on </strong></span>&emsp;
 <a href="https://dev.to/swift17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="swift17" height="30" width="40" /></a>
