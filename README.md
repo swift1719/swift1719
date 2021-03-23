@@ -41,9 +41,8 @@
 </p>
 <!-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) &emsp; -->
 <!-- ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
- __ __
-
-<img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=solarized-light&locale=en" width="450"  alt="swift1719" />
+<hr/>
+<img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=solarized-light&locale=en" width="400"  alt="swift1719" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=solarized-light" width="350" alt="swift1719" />
 
 <p align="center">
@@ -54,7 +53,7 @@
   </a>
 </p>
  
- __ &emsp; &emsp; &emsp; Show some ❤️ by starring ⭐ some of the repositories!__
+__&emsp; &emsp; &emsp; Show some ❤️ by starring ⭐ some of the repositories!__
  __<h1></h1>__
 &emsp;&emsp;&emsp; <span><strong>Find me on </strong></span>&emsp;
 <a href="https://dev.to/swift17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="swift17" height="30" width="40" /></a>
