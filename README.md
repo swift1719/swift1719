@@ -43,7 +43,7 @@
 <!-- ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=solarized-light&locale=en" width="400"  alt="swift1719" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=solarized-light" width="350" alt="swift1719" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=solarized-light" width="300" alt="swift1719" />
 
 <p align="center">
   <a>
