@@ -10,7 +10,7 @@
 
 
 > ## Skills
-<img align="left" height="300" width="300" alt="GIF" src="./media/github.gif">
+<img align="left" height="250" width="250" alt="GIF" src="./media/github.gif">
 <p align="right">
 
 ![C lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &emsp;
@@ -41,6 +41,7 @@
 </p>
 <!-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) &emsp; -->
 <!-- ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
+<br/>
 
  __ __
 
