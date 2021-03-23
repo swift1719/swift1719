@@ -37,11 +37,11 @@
 <!-- ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
  __ __
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" height="200" alt="swift1719" />&emsp;
-<img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=tokyonight&locale=en" width="400" height="300" alt="swift1719" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=solarized-light" width="400" height="200" alt="swift1719" />&emsp;
+<img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=solarized-light&locale=en" width="400" height="300" alt="swift1719" />
 </p>
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=swift1719&theme=tokyonight" widht="300" alt="swift1719" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=swift1719&theme=synthwave" widht="300" alt="swift1719" />
 </p>
  
 <br/>
