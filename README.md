@@ -64,6 +64,6 @@
 &emsp;<a href="https://www.hackerrank.com/ayushpawar_18284" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ayushpawar_18284" height="30" width="40" /></a>
 &emsp;<a href="https://codeforces.com/profile/swift17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="swift17" height="30" width="40" /></a>
 &emsp;<a href="https://www.leetcode.com/swift17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="swift17" height="30" width="40" /></a>
-&emsp;<a href="https://www.hackerearth.com/@swift17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@ayushpawar1501" height="30" width="40" /></a>
+&emsp;<a href="https://www.hackerearth.com/@ayushpawar1501" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@ayushpawar1501" height="30" width="40" /></a>
 
 <img src="./media/footer.png">
