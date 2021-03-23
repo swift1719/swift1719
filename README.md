@@ -53,10 +53,12 @@
     <img height="150" width="175" src="./media/right.png">
   </a>
 </p>
- 
-__&emsp; &emsp; &emsp; Show some ❤️ by starring ⭐ some of the repositories!__
- __<h1></h1>__
-&emsp;&emsp;&emsp; <span><strong>Find me on </strong></span>&emsp;
+
+<hr/>
+
+### &emsp; &emsp; &emsp; __Show some ❤️ by starring ⭐ some of the repositories!__
+
+&emsp; &emsp; &emsp; &emsp;<strong>Find me on </strong>&emsp;
 <a href="https://dev.to/swift17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="swift17" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/swift17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swift17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushpawar_18284" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ayushpawar_18284" height="30" width="40" /></a>
