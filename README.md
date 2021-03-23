@@ -44,9 +44,10 @@
 
  __ __
 
-<img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=solarized-light&locale=en" width="400"  alt="swift1719" /> &emsp;
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=solarized-light" width="400" alt="swift1719" /> 
-</p>
+<code><img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=solarized-light&locale=en" width="350"  alt="swift1719" /></code>
+ &emsp;
+<code><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=solarized-light" width="325" alt="swift1719" /> </code>
+
 <p align="center">
   <a>
     <img height="150" width="175" src="./media/left.png">
