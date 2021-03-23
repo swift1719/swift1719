@@ -29,15 +29,16 @@
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) &emsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &emsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) &emsp;
+
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &emsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) &emsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) &emsp;
 <!-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) &emsp; -->
 <!-- ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
-
+ __ __
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" height="200" alt="swift1719" />&emsp;
-<img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=tokyonight&locale=en" width="400" alt="swift1719" />
+<img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=tokyonight&locale=en" width="400" height="200" alt="swift1719" />
 </p>
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=swift1719&theme=tokyonight" widht="400" alt="swift1719" />
