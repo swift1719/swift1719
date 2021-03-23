@@ -38,10 +38,10 @@
  __ __
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=swift1719&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" height="200" alt="swift1719" />&emsp;
-<img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=tokyonight&locale=en" width="400" height="200" alt="swift1719" />
+<img src="https://github-readme-stats.vercel.app/api?username=swift1719&show_icons=true&theme=tokyonight&locale=en" width="400" height="300" alt="swift1719" />
 </p>
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=swift1719&theme=tokyonight" widht="400" alt="swift1719" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=swift1719&theme=tokyonight" widht="300" alt="swift1719" />
 </p>
  
 <br/>
