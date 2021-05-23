@@ -1,6 +1,6 @@
 <img src="./media/header_.png">
 
-<h1 align="center">Hi 👋, I'm Ayush Pawar</h1>
+<h1 align="center">Hi 👋</h1>
 <h2>I'm a computer science undergraduate and a web developer.</h2>
 
  ## Connect With Me @ [![Linkedin Badge](https://img.shields.io/badge/--0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.cm/in/ayush-p-959701111/)&emsp;[![Facebook Badge](https://img.shields.io/badge/--1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mighty.ap.1501)&emsp;[![Mail Badge](https://img.shields.io/badge/--c0392b?style=flat&logo=gmail&logoColor=white)](mailto:ayushpawar1501@gmail.com)
@@ -57,6 +57,7 @@
 <hr/>
 
 ### &emsp; &emsp; &emsp; __Show some ❤️ by starring ⭐ some of the repositories!__
+### &emsp; &emsp; &emsp; __We Grow by lifting other!!!🙂__
 
 <!-- &emsp; &emsp; &emsp; &emsp;<strong>Find me on </strong>&emsp;
 <a href="https://dev.to/swift1719" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="swift1719" height="30" width="40" /></a>
