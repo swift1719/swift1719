@@ -57,7 +57,7 @@
 <hr/>
 
 ### &emsp; &emsp; &emsp; __Show some ❤️ by starring ⭐ some of the repositories!__
-### &emsp; &emsp; &emsp; __We Grow by lifting other!!!🙂__
+### &emsp; &emsp; &emsp; __We Grow by lifting others!!!🙂__
 
 <!-- &emsp; &emsp; &emsp; &emsp;<strong>Find me on </strong>&emsp;
 <a href="https://dev.to/swift1719" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="swift1719" height="30" width="40" /></a>
