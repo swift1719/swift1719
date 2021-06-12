@@ -1,4 +1,4 @@
-<img src="./media/header_.png">
+<!-- <img src="./media/header_.png"> -->
 
 <h1 align="center">Hi 👋</h1>
 <p>I'm a computer science undergraduate, generous, determined and resilient person. I am an avid learner, having curiosity in the field of computer science. I have good knowledge of Data structures, Object Oriented Programming,and problem solving. I carry with myself, a strong thrill to build and contribute to products that have a potential to create a huge positive impact on the world.</p>
@@ -67,4 +67,4 @@
 &emsp;<a href="https://www.leetcode.com/swift17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="swift17" height="30" width="40" /></a>
 &emsp;<a href="https://www.hackerearth.com/@ayushpawar1501" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@ayushpawar1501" height="30" width="40" /></a> -->
 
-<img src="./media/footer.png">
+<!-- <img src="./media/footer.png"> -->
