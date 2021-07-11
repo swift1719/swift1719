@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋</h1>
 <p>I'm a computer science undergraduate, generous, determined and resilient person. I am an avid learner, having curiosity in the field of computer science. I have good knowledge of Data structures, Object Oriented Programming,and problem solving. I carry with myself, a strong thrill to build and contribute to products that have a potential to create a huge positive impact on the world.</p>
 
- ## Connect With Me @ [![Linkedin Badge](https://img.shields.io/badge/--0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.cm/in/ayush-p-959701111/)&emsp;[![Facebook Badge](https://img.shields.io/badge/--1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mighty.ap.1501)&emsp;[![Mail Badge](https://img.shields.io/badge/--c0392b?style=flat&logo=gmail&logoColor=white)](mailto:ayushpawar1501@gmail.com)
+ ## Connect With Me @ [![Linkedin Badge](https://img.shields.io/badge/--0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.cm/in/ayushpawar17/)&emsp;[![Facebook Badge](https://img.shields.io/badge/--1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mighty.ap.1501)&emsp;[![Mail Badge](https://img.shields.io/badge/--c0392b?style=flat&logo=gmail&logoColor=white)](mailto:ayushpawar1501@gmail.com)
 <br/>
 
 <!-- TODO: Add last video link -->
