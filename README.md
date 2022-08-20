@@ -1,7 +1,7 @@
 <!-- <img src="./media/header_.png"> -->
 
 <h1 align="center">Hi 👋</h1>
-I'm a computer science undergraduate. I am an avid learner who is curious about computer science.<br/>
+I'm a computer science graduate. I am an avid learner who is curious about computer science.<br/>
 I have good knowledge of Data structures, Object Oriented Programming, and problem solving.<br/>
  I carry with myself, a strong thrill to build and contribute to products that will leave a positive remark on the world.<br/>
 
