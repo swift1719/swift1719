@@ -14,6 +14,7 @@ I have good knowledge of Data structures, Object Oriented Programming, and probl
 <p align="right">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &emsp;
+![C#](https://img.shields.io/badge/csharp-00699C?style=for-the-badge&logo=csharp&logoColor=white) &emsp;
 ![C lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &emsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &emsp;
 
