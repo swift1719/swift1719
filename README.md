@@ -3,10 +3,11 @@
 <h1 align="center">Hi 👋</h1>
 I'm a computer science graduate. I am an avid learner who is curious about computer science.<br/>
 I have good knowledge of Data structures, Object Oriented Programming, and problem solving.<br/>
- I carry with myself, a strong thrill to build and contribute to products that will leave a positive remark on the world.<br/>
+
+> https://ayushpawar.herokuapp.com/
 
 
-### Connect With Me @ &emsp; [![Linkedin Badge](https://img.shields.io/badge/--0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpawar17/)&emsp;[![Facebook Badge](https://img.shields.io/badge/--1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ayushpawar17/)&emsp;[![Mail Badge](https://img.shields.io/badge/--c0392b?style=flat&logo=gmail&logoColor=white)](mailto:ayushpawar1501@gmail.com)
+### Connect With Me @ &emsp; [![Linkedin Badge](https://img.shields.io/badge/--0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpawar17/)&emsp;&emsp;[![Mail Badge](https://img.shields.io/badge/--c0392b?style=flat&logo=gmail&logoColor=white)](mailto:ayushpawar1501@gmail.com)
 <br/>
 
 > ## Skills
