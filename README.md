@@ -6,6 +6,7 @@ I have good knowledge of Data structures, Object Oriented Programming, and probl
 
 > https://ayushpawar.herokuapp.com/
 
+[![An image of @swift1719's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swift1719)](https://holopin.io/@swift1719)
 
 ### Connect With Me @ &emsp; [![Linkedin Badge](https://img.shields.io/badge/--0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpawar17/)&emsp;&emsp;[![Mail Badge](https://img.shields.io/badge/--c0392b?style=flat&logo=gmail&logoColor=white)](mailto:ayushpawar1501@gmail.com)
 <br/>
